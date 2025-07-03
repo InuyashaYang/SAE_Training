@@ -1,0 +1,22 @@
+[LUMIA Server]Job 2274 lauched on node node2
+环境变量 HF_DATASETS_OFFLINE 已设置为 '1'，将强制使用本地缓存。
+--- 使用 sparsify Trainer 进行 On-the-fly 训练 (最终正确版) ---
+基础模型: gpt2
+目标钩子点: ['h.5']
+设备: cuda
+-------------------------------------------------
+创建训练数据集...
+正在从 /data0/yfliu/vqhlm/datasets/wikitext103_gpt2finetuned/train.h5 手动加载数据...
+成功加载数据，形状: (228496, 1024)
+训练数据集创建成功，并已设置输出格式为PyTorch张量！
+
+正在加载基础模型 'gpt2' (强制离线)...
+基础模型加载成功！
+Training on modules: ['h.5']
+Initializing SAEs with random seed(s) [0]
+Learning rate: 3.33e-03
+
+Trainer配置完成，准备开始训练...
+注意：训练将持续进行，请通过W&B监控，并在适当时机手动停止 (Ctrl+C)。
+Number of SAE parameters: 56_660_736
+Number of model parameters: 124_439_808

@@ -1,0 +1,20 @@
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Currently logged in as: jiaoyang2002 (jiaoyang2002-sjtu-hpc-center) to https://api.wandb.ai. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.19.9
+wandb: Run data is saved locally in /home/yjiao/SAE_Training/SAE_Training/sparsify/wandb/run-20250703_153912-u402cdkn
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run gpt2-h5-resid-post-exp1
+wandb: ⭐️ View project at https://wandb.ai/jiaoyang2002-sjtu-hpc-center/sparsify
+wandb: 🚀 View run at https://wandb.ai/jiaoyang2002-sjtu-hpc-center/sparsify/runs/u402cdkn
+Training:   0%|          | 0/7140 [00:00<?, ?it/s]Traceback (most recent call last):
+  File "/home/yjiao/SAE_Training/SAE_Training/sparsify/train_sparsify.py", line 97, in <module>
+    trainer.fit()
+  File "/home/yjiao/SAE_Training/SAE_Training/sparsify/sparsify/trainer.py", line 434, in fit
+    x = batch["input_ids"].to(device)
+AttributeError: 'list' object has no attribute 'to'
+Traceback (most recent call last):
+  File "/home/yjiao/SAE_Training/SAE_Training/sparsify/train_sparsify.py", line 97, in <module>
+    trainer.fit()
+  File "/home/yjiao/SAE_Training/SAE_Training/sparsify/sparsify/trainer.py", line 434, in fit
+    x = batch["input_ids"].to(device)
+AttributeError: 'list' object has no attribute 'to'

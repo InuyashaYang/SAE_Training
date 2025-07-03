@@ -56,10 +56,8 @@ def evaluate_mse(model: SAE, data_iter, device: torch.device):
             # 检查形状是否匹配（以防万一）
             if recons.shape != batch.shape:
                 print(f"\nERROR: Shape mismatch detected! Input: {batch.shape}, Output: {recons.shape}")
-                # 尝试处理广播情况，但这通常表示之前的错误
                 if recons.shape == model.b_dec.shape:
                      print("Error is likely due to model/data mismatch, outputting only decoder bias.")
-                     # 在这里可以选择停止或跳过，但计算出的MSE会非常大
                 continue
 
             # 使用 reduction='sum' 来计算总平方和，避免浮点数精度问题
