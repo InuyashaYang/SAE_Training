@@ -1,0 +1,19 @@
+[LUMIA Server]Job 2224 lauched on node node2
+--- SAE-Lens Final Evaluation Script ---
+Model Release: 'gpt2-small-resid-post-v5-32k'
+SAE ID: 'blocks.5.hook_resid_post'
+Dataset Path: /data0/yfliu/vqhlm/datasets/wikitext103_gpt2finetuned/test.h5
+Batch Size: 2048
+Device: cuda
+----------------------------------
+Loading model using sae-lens...
+Model loaded successfully.
+Starting evaluation...
+INFO: Starting to stream data from /data0/yfliu/vqhlm/datasets/wikitext103_gpt2finetuned/test.h5...
+
+INFO: Finished streaming all data.
+
+--- Evaluation Complete ---
+Model: gpt2-small-resid-post-v5-32k / blocks.5.hook_resid_post
+Final Mean Squared Error (MSE) on test set: 3.38441975
+-----------------------------

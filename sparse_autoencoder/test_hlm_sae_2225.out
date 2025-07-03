@@ -1,0 +1,19 @@
+[LUMIA Server]Job 2225 lauched on node node2
+--- SAE Evaluation Script ---
+Hardcoded Model: Layer='resid_post_mlp', Index=5
+Dataset Path: /data0/yfliu/vqhlm/datasets/wikitext103_gpt2finetuned/test.h5
+Batch Size: 4096
+Device: cuda
+-----------------------------
+Loading model...
+Attempting to download model from: az://openaipublic/sparse-autoencoder/gpt2-small/resid_post_mlp_v5_32k/autoencoders/5.pt
+Model loaded successfully.
+Starting evaluation...
+INFO: Starting to stream data from /data0/yfliu/vqhlm/datasets/wikitext103_gpt2finetuned/test.h5...
+
+INFO: Finished streaming all data.
+
+--- Evaluation Complete ---
+Model: resid_post_mlp, Index: 5
+Final Mean Squared Error (MSE) on test set: 3.38443573
+-----------------------------

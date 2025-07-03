@@ -1,0 +1,51 @@
+Evaluating MSE: 0it [00:00, ?it/s]
+Reading sequences from H5:   0%|          | 0/548 [00:00<?, ?it/s][AEvaluating MSE: 1it [00:00,  5.50it/s]
+Reading sequences from H5:   0%|          | 2/548 [00:00<00:48, 11.32it/s][AEvaluating MSE: 5it [00:00, 19.36it/s]
+Reading sequences from H5:   2%|▏         | 10/548 [00:00<00:13, 39.35it/s][AEvaluating MSE: 10it [00:00, 30.56it/s]
+Reading sequences from H5:   4%|▎         | 20/548 [00:00<00:08, 61.77it/s][A
+Reading sequences from H5:   6%|▌         | 31/548 [00:00<00:06, 77.97it/s][AEvaluating MSE: 16it [00:00, 38.38it/s]
+Reading sequences from H5:   7%|▋         | 41/548 [00:00<00:05, 85.23it/s][AEvaluating MSE: 21it [00:00, 41.93it/s]
+Reading sequences from H5:   9%|▉         | 51/548 [00:00<00:05, 89.85it/s][AEvaluating MSE: 27it [00:00, 44.90it/s]
+Reading sequences from H5:  11%|█▏        | 62/548 [00:00<00:05, 92.28it/s][AEvaluating MSE: 33it [00:00, 46.99it/s]
+Reading sequences from H5:  13%|█▎        | 72/548 [00:00<00:05, 93.87it/s][AEvaluating MSE: 38it [00:00, 47.44it/s]
+Reading sequences from H5:  15%|█▌        | 83/548 [00:01<00:04, 98.19it/s][AEvaluating MSE: 44it [00:01, 48.42it/s]
+Reading sequences from H5:  17%|█▋        | 94/548 [00:01<00:04, 97.30it/s][AEvaluating MSE: 50it [00:01, 49.29it/s]
+Reading sequences from H5:  19%|█▉        | 105/548 [00:01<00:04, 100.97it/s][AEvaluating MSE: 56it [00:01, 50.08it/s]
+Reading sequences from H5:  21%|██        | 116/548 [00:01<00:04, 98.95it/s] [AEvaluating MSE: 62it [00:01, 50.32it/s]
+Reading sequences from H5:  23%|██▎       | 128/548 [00:01<00:04, 101.34it/s][AEvaluating MSE: 68it [00:01, 51.27it/s]
+Reading sequences from H5:  26%|██▌       | 140/548 [00:01<00:03, 102.89it/s][AEvaluating MSE: 74it [00:01, 51.96it/s]
+Reading sequences from H5:  28%|██▊       | 152/548 [00:01<00:03, 103.93it/s][AEvaluating MSE: 80it [00:01, 52.21it/s]
+Reading sequences from H5:  30%|██▉       | 164/548 [00:01<00:03, 104.74it/s][AEvaluating MSE: 86it [00:01, 52.37it/s]
+Reading sequences from H5:  32%|███▏      | 176/548 [00:01<00:03, 104.74it/s][AEvaluating MSE: 92it [00:01, 52.59it/s]
+Reading sequences from H5:  34%|███▍      | 188/548 [00:02<00:03, 104.98it/s][AEvaluating MSE: 98it [00:02, 52.80it/s]
+Reading sequences from H5:  36%|███▋      | 200/548 [00:02<00:03, 105.80it/s][AEvaluating MSE: 104it [00:02, 53.19it/s]
+Reading sequences from H5:  39%|███▊      | 212/548 [00:02<00:03, 106.07it/s][AEvaluating MSE: 110it [00:02, 53.09it/s]
+Reading sequences from H5:  41%|████      | 224/548 [00:02<00:03, 106.73it/s][AEvaluating MSE: 116it [00:02, 53.66it/s]
+Reading sequences from H5:  43%|████▎     | 236/548 [00:02<00:02, 107.56it/s][AEvaluating MSE: 122it [00:02, 53.81it/s]
+Reading sequences from H5:  45%|████▌     | 248/548 [00:02<00:02, 107.12it/s][AEvaluating MSE: 128it [00:02, 53.40it/s]
+Reading sequences from H5:  47%|████▋     | 260/548 [00:02<00:02, 106.65it/s][AEvaluating MSE: 134it [00:02, 53.04it/s]
+Reading sequences from H5:  50%|████▉     | 272/548 [00:02<00:02, 106.16it/s][AEvaluating MSE: 140it [00:02, 52.99it/s]
+Reading sequences from H5:  52%|█████▏    | 284/548 [00:02<00:02, 106.48it/s][AEvaluating MSE: 146it [00:02, 53.53it/s]
+Reading sequences from H5:  54%|█████▍    | 296/548 [00:03<00:02, 107.23it/s][AEvaluating MSE: 152it [00:03, 53.93it/s]
+Reading sequences from H5:  56%|█████▌    | 308/548 [00:03<00:02, 108.20it/s][AEvaluating MSE: 158it [00:03, 53.96it/s]
+Reading sequences from H5:  58%|█████▊    | 320/548 [00:03<00:02, 107.98it/s][AEvaluating MSE: 164it [00:03, 54.12it/s]
+Reading sequences from H5:  61%|██████    | 332/548 [00:03<00:01, 108.32it/s][AEvaluating MSE: 170it [00:03, 54.43it/s]
+Reading sequences from H5:  63%|██████▎   | 344/548 [00:03<00:01, 108.75it/s][AEvaluating MSE: 176it [00:03, 54.39it/s]
+Reading sequences from H5:  65%|██████▍   | 356/548 [00:03<00:01, 108.96it/s][AEvaluating MSE: 182it [00:03, 54.17it/s]
+Reading sequences from H5:  67%|██████▋   | 368/548 [00:03<00:01, 108.46it/s][AEvaluating MSE: 188it [00:03, 54.32it/s]
+Reading sequences from H5:  69%|██████▉   | 380/548 [00:03<00:01, 108.58it/s][AEvaluating MSE: 194it [00:03, 54.59it/s]
+Reading sequences from H5:  72%|███████▏  | 392/548 [00:03<00:01, 109.22it/s][AEvaluating MSE: 200it [00:03, 54.62it/s]
+Reading sequences from H5:  74%|███████▎  | 404/548 [00:04<00:01, 109.40it/s][AEvaluating MSE: 206it [00:04, 54.66it/s]
+Reading sequences from H5:  76%|███████▌  | 416/548 [00:04<00:01, 109.40it/s][AEvaluating MSE: 212it [00:04, 54.78it/s]
+Reading sequences from H5:  78%|███████▊  | 428/548 [00:04<00:01, 109.43it/s][AEvaluating MSE: 218it [00:04, 54.84it/s]
+Reading sequences from H5:  80%|████████  | 440/548 [00:04<00:00, 109.69it/s][AEvaluating MSE: 224it [00:04, 54.78it/s]
+Reading sequences from H5:  82%|████████▏ | 452/548 [00:04<00:00, 108.53it/s][AEvaluating MSE: 230it [00:04, 54.20it/s]
+Reading sequences from H5:  85%|████████▍ | 464/548 [00:04<00:00, 108.78it/s][AEvaluating MSE: 236it [00:04, 54.40it/s]
+Reading sequences from H5:  87%|████████▋ | 476/548 [00:04<00:00, 108.17it/s][AEvaluating MSE: 242it [00:04, 53.61it/s]
+Reading sequences from H5:  89%|████████▉ | 488/548 [00:04<00:00, 107.31it/s][AEvaluating MSE: 248it [00:04, 53.38it/s]
+Reading sequences from H5:  91%|█████████ | 500/548 [00:04<00:00, 106.63it/s][AEvaluating MSE: 254it [00:04, 53.12it/s]
+Reading sequences from H5:  93%|█████████▎| 512/548 [00:05<00:00, 106.56it/s][AEvaluating MSE: 260it [00:05, 53.19it/s]
+Reading sequences from H5:  96%|█████████▌| 524/548 [00:05<00:00, 106.69it/s][AEvaluating MSE: 266it [00:05, 53.64it/s]
+Reading sequences from H5:  98%|█████████▊| 536/548 [00:05<00:00, 107.23it/s][AEvaluating MSE: 272it [00:05, 53.80it/s]
+Reading sequences from H5: 100%|██████████| 548/548 [00:05<00:00, 107.78it/s][AReading sequences from H5: 100%|██████████| 548/548 [00:05<00:00, 102.29it/s]
+Evaluating MSE: 274it [00:05, 51.09it/s]
